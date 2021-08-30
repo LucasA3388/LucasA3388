@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasA3388
-- 👀 I’m interested in computer, tech and new things... 
+- 👀 I’m interested in computers, tech and new things... and other things too
 - 🌱 I’m currently learning for Full stack developer in Henry!
 - 💞️ I’m looking to collaborate on nothing for the moment, sorry; just learning. 
 - 📫 How to reach me: since i'm learning i only have a totaly random normal e-mail and a slack user.
