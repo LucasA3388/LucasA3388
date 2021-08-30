@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasA3388
+- 👋 Hi, I’m @LucasA3388 from Rosario in Santa fe, Argentina.
 - 👀 I’m interested in computers, tech and new things... and other things too
 - 🌱 I’m currently learning for Full stack developer in Henry!
 - 💞️ I’m looking to collaborate on nothing for the moment, sorry; just learning. 
